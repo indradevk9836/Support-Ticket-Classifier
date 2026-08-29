@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+
+# Large / generated model files (optional — see README on whether to commit these)
+# Uncomment the next two lines if your model files are too large for GitHub (>100MB)
+# models/sentence_embedder/
+# models/*.joblib
+
+# Real Kaggle dataset — download it yourself, don't commit it (see data/README.md)
+data/airline_tweets.csv
+
+# Streamlit
+.streamlit/secrets.toml
