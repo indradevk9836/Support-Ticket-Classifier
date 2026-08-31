@@ -1,7 +1,5 @@
 # ✈️ Airline Complaint Classifier
 
-# ✈️ Airline Complaint Classifier
-
 An NLP-based Machine Learning project that automatically classifies
 airline-related customer complaints into categories such as **Late Flight,
 Lost Luggage, Cancelled Flight, Customer Service Issue**, and more.
@@ -57,7 +55,8 @@ accuracy, 0.564 F1-macro across 9 categories (random chance ≈ 0.11).
 Try it live: **https://support-ticket-classifier-nxfkihjkjg2dudusjdtlxk.streamlit.app/**
 
 ## Review
-
+[](images/image1.png)
+[](images/image2.png)
 
 ```
 ```
